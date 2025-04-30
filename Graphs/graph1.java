@@ -42,5 +42,4 @@ public class graph1 {
             System.out.println(e.dest);
         }
     }
-    
 }
